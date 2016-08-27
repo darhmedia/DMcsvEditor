@@ -1,0 +1,97 @@
+[Language]
+file=文件
+new=新建
+open=打开...
+save=保存
+saveas=另存为...
+screenshot=截图
+export=输出...
+print=打印
+exit=退出
+edit=编辑(&E)
+copy=复制
+paste=粘贴
+rows=垂直
+cols=水平
+add=添加行
+remove=添加行
+deleteselected=删除选择行
+sort=按选定的列排序
+search=搜索(&S)
+find=查找
+searchonline=在线搜索
+view=视图(&V)
+toolbar=工具栏
+statusbar=状态条
+aotop=总在最前面
+language=语言(&L)
+settings=设置(&T)
+autoresize=自动调整大小
+label=标记
+colors=颜色
+line1=行 1
+line2=行 2
+font=字体
+default=默认
+
+; removed/not used v2.5
+;associated=Associate with (*.csv) files
+
+help=帮助(&H)
+about=关于...
+homepage=网站
+email=邮件
+checkversion=检查更新...
+alert_txt=警告
+
+; modify v2.6
+notcsv=这文件扩展名不是 CSV!
+
+onlyone=在编辑器中只允许有一个文件!
+saved=文件 "%s" 已保存.
+
+; modify v2.6
+filter0=Csv 文件 [自动识别]
+
+filter1=Xml 格式
+filter2=Excel 格式
+filter3=Html 文档
+filter4=逗号分隔文件
+filter5=分号分隔文件 
+filter6=Jpeg格式
+filter7=Bmp 格式
+filter8= | 分隔的文件
+filter9=星号分隔的文件
+filter10=冒号分隔的文件
+
+;added v2.5
+filter11=$符分隔的文件
+filter12=Tab分隔的文件
+
+overwrite=%s 已存在. 覆盖这个文件?
+norecords=没有记录!
+scr=搜索...
+updates=更新
+server=无法连接到 Darh Media 服务器.
+down=下载
+odir=打开目录?
+location=新的版本下载到 %s 下载到:
+downfail=下载失败!
+notnew=没有新的版本可用!
+newversion= %s 的新版本可用,你想现在下载?
+
+; removed/not used v2.5
+;assoc=File Association
+;assoc_txt=The (*.csv) files were successfully associated to DMcsvEditor.
+
+saveexit=保存设置后退出
+searchengines=搜索引擎
+format=格式: 名称|网址
+cancel=取消
+csvempty=此文件为空或已损坏!
+
+;added v2.5
+donate=赞助
+
+;added v2.6
+translators=翻译

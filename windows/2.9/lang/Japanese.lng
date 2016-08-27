@@ -1,0 +1,85 @@
+[Language]
+file=ファイル(&F)
+new=新規作成(&N)
+open=開く(&O)...
+save=保存(&S)
+saveas=名前をつけて保存(&A)...
+screenshot=スクリーンショット&
+export=エクスポート(&E)...
+print=印刷(&P)
+exit=終了(&X)
+edit=編集(&E)
+copy=コピー(&C)
+paste=貼り付け(&P)
+rows=列の編集(&R)
+cols=行の編集(&O)
+add=行を追加
+remove=行を除去
+deleteselected=選択行を削除(&D)
+sort=選択列をソート(&T)
+search=検索(&S)
+find=検索(&F)
+searchonline=オンライン検索&
+view=表示(&V)
+toolbar=ツールバー(&T)
+statusbar=ステータスバー(&S)
+aotop=常に手前に表示(&A)
+language=言語(&L)
+settings=設定(&P)
+autoresize=サイズを自動調整(&U)
+label=ラベル(&L)
+colors=色設定(&C)
+line1=行 1 .
+line2=行 2 .
+font=フォント(&F)
+default=デフォルト(&D)
+
+help=ヘルプ(&H)
+about=情報(&A)...
+homepage=ウェブページ(&W)
+email=E-メール(&E)
+checkversion=アップデートのチェック(&C)...
+alert_txt=警告
+
+notcsv=このファイルの拡張子は CSV/TAB ではありません!
+
+onlyone=このエディタでは、一つのファイルしか扱えません!
+saved=ファイル "%s" を保存
+filter0=Csv ファイル [自動認識]
+filter1=Xml 形式
+filter2=Excel 形式
+filter3=Html 文書
+filter4=カンマ区切り
+filter5=セミコロン区切り
+filter6=Jpeg 形式
+filter7=Bmp 形式 
+filter8=パイプ区切り
+filter9=アスタリスク区切り
+filter10=コロン区切り	  
+
+filter11=ドル記号区切り
+filter12=タブ区切り
+
+overwrite=%s は既に存在します、上書きしますか?
+norecords=レコードが存在しません!
+scr=検索...
+updates=アップデート
+server=サーバに接続することが出来ません
+down=ダウンロード
+odir=直接開きますか?
+location=バージョン %s のダウンロード先:
+downfail=ダウンロードに失敗!
+notnew=利用可能な新バージョンはありません!
+newversion=新バージョン %s が利用出来ます。ダウンロードしますか?
+
+saveexit=終了時に設定を保存(&V)
+searchengines=検索エンジン(&E)
+format=書式: 名前|Url
+cancel=キャンセル
+csvempty=このファイルは空かまたは破損しています!
+
+donate=寄付する	
+
+translators=翻訳者	
+
+StartupUpdate=起動時にアップデートを確認(&S)

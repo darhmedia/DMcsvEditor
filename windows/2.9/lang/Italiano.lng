@@ -1,0 +1,97 @@
+[Language]
+file=File
+new=Nuovo
+open=Apri...
+save=Salva
+saveas=Salva con nome...
+screenshot=Screenshot
+export=Esporta...
+print=Stampa
+exit=Esci
+edit=Modifica
+copy=Copia
+paste=Incolla
+rows=Verticale
+cols=Orizzontale
+add=Aggiungi linea
+remove=Rimuovi linea
+deleteselected=Cancella la linea selezionata
+sort=Ordina in base alla colonna selezionata
+search=Cerca
+find=Trova
+searchonline=Cerca Online
+view=Visualizza
+toolbar=Toolbar
+statusbar=Statusbar
+aotop=Sempre in primo piano
+language=Lingua
+settings=Preferenze
+autoresize=Ridimensiona automaticamente
+label=Etichetta
+colors=Colori
+line1=Linea 1
+line2=Linea 2
+font=Carattere
+default=Default
+
+; removed/not used v2.5
+;associated=Associate with (*.csv) files
+
+help=Help
+about=A proposito di...
+homepage=Home page
+email=Email
+checkversion=Controlla aggiornamenti...
+alert_txt=Avviso
+
+; modify v2.6
+notcsv=L'estensione di questo file non è supportata!
+
+onlyone=Inserisci un solo file nell'editor!
+saved=File "%s" salvato.
+
+; modify v2.6
+filter0=Riconoscimento automatico
+
+filter1=formato Xml 
+filter2=formato Excel
+filter3=formato Html
+filter4=file CSV
+filter5=file separato da punto e virgola
+filter6=formato Jpeg
+filter7=formato Bmp
+filter8=Pipe-separated file
+filter9=file separato da Asterischi
+filter10=File separato da due punti
+
+;added v2.5
+filter11=file separato dal Dollaro
+filter12=file separato da TAB
+
+overwrite=%s esiste. Sovrascriverlo?
+norecords=Nessun record!
+scr=Cerca...
+updates=Aggiornamenti
+server=Impossibile connettersi a Darh Media server.
+down=download
+odir=Aprire la directory?
+location=Nuova %s versione:
+downfail=Download fallito!
+notnew=Nessuna nuova versione disponibile!
+newversion=Nuova %s versione disponibile, vuoi scaricarla ora?
+
+; removed/not used v2.5
+;assoc=File Association
+;assoc_txt=The (*.csv) files were successfully associated to DMcsvEditor.
+
+saveexit=Salva le impostazioni all'uscita
+searchengines=Motori di ricerca
+format=Formato: Nome|Url
+cancel=Cancella
+csvempty=Questo file è vuoto o corrotto!
+
+;added v2.5
+donate=Fai una donazione
+
+;added v2.6
+translators=Traduttori

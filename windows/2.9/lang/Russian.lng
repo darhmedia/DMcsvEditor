@@ -1,0 +1,91 @@
+[Language]
+file=Файл
+new=Новый
+open=Открыть...
+save=Сохранить
+saveas=Сохранить как...
+screenshot=Снимок экрана
+export=Экспорт...
+print=Печать
+exit=Выйти
+edit=Правка
+copy=Копировать
+paste=Вставить
+rows=По вертикали
+cols=По горизонтали
+add=Добавить строку
+remove=Удалить строку
+deleteselected=Удалить выбранную строку
+sort=Сортировка по определенному столбцу
+search=Поиск
+find=Найти
+searchonline=Поиск онлайн
+view=Вид
+toolbar=Панель инструментов
+statusbar=Строка состояния
+aotop=Поверх окон
+language=Язык
+settings=Настройки
+autoresize=Автовыравнивание
+label=Заголовки
+colors=Цвета
+line1=Строка 1
+line2=Строка 2
+font=Шрифт
+default=По умолчанию
+
+; removed/not used v2.5
+;associated=Associate with (*.csv) files
+
+help=Справка
+about=О программе...
+homepage=Веб-сайт
+email=E-mail
+checkversion=Проверка обновлений...
+alert_txt=Предупреждение
+
+; modify v2.5
+notcsv=Расширение этого файла не CSV или TAB!
+
+onlyone=Поместите только один файл в редактор!
+saved=Файл "%s" сохранен.
+filter0=Csv файлы [автораспознавание]
+filter1=Xml формат
+filter2=Excel формат
+filter3=Html документы
+filter4=Разделенный запятыми файл
+filter5=Разделенный точкой с запятой файл
+filter6=Jpeg формат
+filter7=Bmp формат
+filter8=Разделенный черточками файл
+filter9=Разделенный звездочками файл
+filter10=Разделенный двоеточиями файл
+
+;added v2.5
+filter11=Разделенный знаком доллара файл
+filter12=Разделенный Tab-вкладками файл 
+
+overwrite=%s существует. Перезаписать его?
+norecords=Нет записей!
+scr=Поиск...
+updates=Обновления
+server=Не могу подключиться к серверу.
+down=загрузка
+odir=Открыть каталог?
+location=Новую %s версию скачать с:
+downfail=Загрузка не удалась!
+notnew=Новых версий не обнаружено!
+newversion=Новая %s версия доступна, хотите загрузить ее сейчас?
+
+; removed/not used v2.5
+;assoc=File Association
+;assoc_txt=The (*.csv) files were successfully associated to DMcsvEditor.
+
+saveexit=Сохранять настройки при выходе
+searchengines=Поисковые системы
+format=Формат: Имя|Url
+cancel=Отмена
+csvempty=Этот файл пуст или поврежден!
+
+;added v2.5
+donate=Пожертвования

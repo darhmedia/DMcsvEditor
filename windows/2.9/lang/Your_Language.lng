@@ -1,0 +1,100 @@
+[Language]
+file=File
+new=New
+open=Open...
+save=Save
+saveas=Save as...
+screenshot=Screenshot
+export=Export...
+print=Print
+exit=Exit
+edit=Edit
+copy=Copy
+paste=Paste
+rows=Vertical
+cols=Horizontal
+add=Add line
+remove=Remove line
+deleteselected=Delete Selected Line
+sort=Sort by selected column
+search=Search
+find=Find
+searchonline=Search Online
+view=View
+toolbar=Toolbar
+statusbar=Statusbar
+aotop=Alway On Top
+language=Language
+settings=Settings
+autoresize=Autoresize
+label=Label
+colors=Colors
+line1=Line 1
+line2=Line 2
+font=Font
+default=Default
+
+; removed/not used v2.5
+;associated=Associate with (*.csv) files
+
+help=Help
+about=About...
+homepage=Webpage
+email=Email
+checkversion=Check for Updates...
+alert_txt=Warning
+
+; modify v2.6
+notcsv=This file extension is not supported!
+
+onlyone=Put only one file into the editor!
+saved=File "%s" saved.
+
+; modify v2.6
+filter0=Automatic recognition
+
+filter1=Xml format
+filter2=Excel format
+filter3=Html documents
+filter4=Comma-separated file
+filter5=Semicolon-separated file
+filter6=Jpeg format
+filter7=Bmp format
+filter8=Pipe-separated file
+filter9=Asterisk-separated file
+filter10=Colon-separated file
+
+;added v2.5
+filter11=Dollar sign-separated file
+filter12=Tab-separated file
+
+overwrite=%s exists. Overwrite this file?
+norecords=No Records!
+scr=Search...
+updates=Updates
+server=Unable to connect Darh Media server.
+down=download
+odir=Open directory?
+location=New %s version download to:
+downfail=Download failed!
+notnew=No new version is available!
+newversion=New %s version available, would you like to download it now?
+
+; removed/not used v2.5
+;assoc=File Association
+;assoc_txt=The (*.csv) files were successfully associated to DMcsvEditor.
+
+saveexit=Save Settings when Exit
+searchengines=Search Engines
+format=Format: Name|Url
+cancel=Cancel
+csvempty=This file is empty or corrupted!
+
+;added v2.5
+donate=Donate
+
+;added v2.6
+translators=Translators
+
+;added v2.8
+StartupUpdate=Startup Update Check

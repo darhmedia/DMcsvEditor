@@ -1,0 +1,100 @@
+[Language]
+file=Arkiv
+new=Nytt
+open=Öppna...
+save=Spara
+saveas=Spara som...
+screenshot=Skärmklipp
+export=Exportera...
+print=Skriv ut
+exit=Avsluta
+edit=Redigera
+copy=Kopiera
+paste=Klistra in
+rows=Vertikalt
+cols=Horisontellt
+add=Lägg till rad
+remove=Ta bort rad
+deleteselected=Ta bort markerad rad
+sort=Sortera efter markerad kolumn
+search=Sök
+find=Sök
+searchonline=Sök online
+view=Visa
+toolbar=Verktygsfält
+statusbar=Statusfält
+aotop=Alltid överst
+language=Språk
+settings=Inställningar
+autoresize=Storleksändra automatiskt
+label=Etikett
+colors=Färger
+line1=Rad 1
+line2=Rad 2
+font=Teckensnitt
+default=Standard
+
+; removed/not used v2.5
+;associated=Associate with (*.csv) files
+
+help=Hjälp
+about=Om...
+homepage=Webbsida
+email=E-post
+checkversion=Sök efter uppdateringar...
+alert_txt=Varning
+
+; modify v2.6
+notcsv=Filformatet stöds inte!
+
+onlyone=Läs bara in en fil i redigeraren!
+saved="%s" sparad.
+
+; modify v2.6
+filter0=Automatisk igenkänning
+
+filter1=Xml-format
+filter2=Excel-format
+filter3=Html-dokument
+filter4=Kommaseparerad fil
+filter5=Semikolonseparerad fil
+filter6=Jpeg-format
+filter7=Bmp-format
+filter8=Vertikalstreck-separerad fil
+filter9=Asteriskseparerad fil
+filter10=Kolonseparerad fil
+
+;added v2.5
+filter11=Dollartecken-separerad fil
+filter12=Tabulatorseparerad fil
+
+overwrite=%s finns redan. Vill du byta ut filen?
+norecords=Inga poster!
+scr=Sök...
+updates=Uppdateringar
+server=Kunde inte ansluta till Darh Media-server.
+down=Ladda ner
+odir=Öppna målmappen?
+location=Ladda ner version %s till:
+downfail=Nedladdningen misslyckades!
+notnew=Det finns ingen ny version!
+newversion=Version %s finns tillgänglig, vill du ladda ner den nu?
+
+; removed/not used v2.5
+;assoc=Filassociation
+;assoc_txt=CSV-formatet associerades med DMcsvEditor.
+
+saveexit=Spara inställningar vid avslut
+searchengines=Sökmotorer
+format=Format: Namn|Url
+cancel=Avbryt
+csvempty=Filen är tom eller korrupt!
+
+;added v2.5
+donate=Donera
+
+;added v2.6
+translators=Översättare
+
+;added v2.8
+StartupUpdate=Uppdatera vid programstart
