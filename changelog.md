@@ -1,15 +1,15 @@
 Changelog Windows
 
-v2.9 
-small code clear and modify
-added Swedish language file (Thx to Ake Engelbrektson)
-Japanese language file updated to the 2.8 (Thx to Tilt.)
+v2.9 <br />
+small code clear and modify<br />
+added Swedish language file (Thx to Ake Engelbrektson)<br />
+Japanese language file updated to the 2.8 (Thx to Tilt.)<br />
 
 
-v2.8 
-fix toolbar bug (Thx bug report to Simionescu)
-added Simplified Chinese language file (Thx to jyokei)
-added Startup Update Check option to Settings menu (default enabled)
+v2.8 <br />
+fix toolbar bug (Thx bug report to Simionescu)<br />
+added Simplified Chinese language file (Thx to jyokei)<br />
+added Startup Update Check option to Settings menu (default enabled)<br />
 
 v2.7
 fix startup crash (not a valid floating..., Thx bug report to CrazyChop)
