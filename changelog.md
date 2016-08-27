@@ -2,9 +2,7 @@ Changelog Windows
 
 v2.9 
 small code clear and modify
-
 added Swedish language file (Thx to Ake Engelbrektson)
-
 Japanese language file updated to the 2.8 (Thx to Tilt.)
 
 
